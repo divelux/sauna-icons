@@ -1,0 +1,455 @@
+{
+  "name": "Sauna & Banya Icon Set",
+  "version": "1.0.0",
+  "author": "DIVELUX",
+  "homepage": "https://diveluxsaunahat.com",
+  "license": "CC-BY-4.0",
+  "attribution": "DIVELUX — diveluxsaunahat.com",
+  "grid": 24,
+  "stroke": 1.5,
+  "count": 36,
+  "icons": [
+    {
+      "name": "sauna-hat",
+      "title": "Sauna hat",
+      "file": "svg/sauna-hat.svg",
+      "tags": [
+        "sauna hat",
+        "bell hat",
+        "felt hat",
+        "wool",
+        "banya hat",
+        "headwear"
+      ]
+    },
+    {
+      "name": "bucket-hat",
+      "title": "Bucket sauna hat",
+      "file": "svg/bucket-hat.svg",
+      "tags": [
+        "bucket hat",
+        "sauna hat",
+        "brim",
+        "felt hat",
+        "wool",
+        "headwear"
+      ]
+    },
+    {
+      "name": "sauna-stove",
+      "title": "Sauna stove with stones",
+      "file": "svg/sauna-stove.svg",
+      "tags": [
+        "stove",
+        "heater",
+        "kiuas",
+        "stones",
+        "rocks",
+        "sauna heater"
+      ]
+    },
+    {
+      "name": "bucket-ladle",
+      "title": "Sauna bucket and ladle",
+      "file": "svg/bucket-ladle.svg",
+      "tags": [
+        "bucket",
+        "ladle",
+        "pail",
+        "water",
+        "kiulu",
+        "scoop"
+      ]
+    },
+    {
+      "name": "birch-whisk",
+      "title": "Birch whisk",
+      "file": "svg/birch-whisk.svg",
+      "tags": [
+        "whisk",
+        "venik",
+        "vihta",
+        "vasta",
+        "birch",
+        "banya",
+        "leaves"
+      ]
+    },
+    {
+      "name": "thermometer",
+      "title": "Thermometer",
+      "file": "svg/thermometer.svg",
+      "tags": [
+        "thermometer",
+        "temperature",
+        "heat",
+        "degrees"
+      ]
+    },
+    {
+      "name": "hygrometer",
+      "title": "Hygrometer",
+      "file": "svg/hygrometer.svg",
+      "tags": [
+        "hygrometer",
+        "humidity",
+        "moisture",
+        "gauge",
+        "dial"
+      ]
+    },
+    {
+      "name": "sand-timer",
+      "title": "Sand timer",
+      "file": "svg/sand-timer.svg",
+      "tags": [
+        "sand timer",
+        "hourglass",
+        "timer",
+        "15 minutes",
+        "time"
+      ]
+    },
+    {
+      "name": "sauna-bench",
+      "title": "Sauna bench",
+      "file": "svg/sauna-bench.svg",
+      "tags": [
+        "bench",
+        "tiers",
+        "seat",
+        "upper bench",
+        "wood"
+      ]
+    },
+    {
+      "name": "steam",
+      "title": "Steam",
+      "file": "svg/steam.svg",
+      "tags": [
+        "steam",
+        "vapor",
+        "heat",
+        "hot",
+        "humidity"
+      ]
+    },
+    {
+      "name": "loyly",
+      "title": "Löyly: water on the stones",
+      "file": "svg/loyly.svg",
+      "tags": [
+        "loyly",
+        "löyly",
+        "steam",
+        "water on stones",
+        "stones",
+        "sauna"
+      ]
+    },
+    {
+      "name": "towel",
+      "title": "Towel",
+      "file": "svg/towel.svg",
+      "tags": [
+        "towel",
+        "linen",
+        "bath",
+        "dry",
+        "rail"
+      ]
+    },
+    {
+      "name": "robe",
+      "title": "Robe",
+      "file": "svg/robe.svg",
+      "tags": [
+        "robe",
+        "bathrobe",
+        "spa",
+        "kimono",
+        "clothing"
+      ]
+    },
+    {
+      "name": "slippers",
+      "title": "Slippers",
+      "file": "svg/slippers.svg",
+      "tags": [
+        "slippers",
+        "slides",
+        "sandals",
+        "footwear",
+        "spa"
+      ]
+    },
+    {
+      "name": "cold-plunge",
+      "title": "Cold plunge",
+      "file": "svg/cold-plunge.svg",
+      "tags": [
+        "cold plunge",
+        "ice bath",
+        "cold water",
+        "tub",
+        "contrast"
+      ]
+    },
+    {
+      "name": "shower",
+      "title": "Shower",
+      "file": "svg/shower.svg",
+      "tags": [
+        "shower",
+        "rinse",
+        "water",
+        "wash",
+        "cool down"
+      ]
+    },
+    {
+      "name": "snowflake",
+      "title": "Snowflake",
+      "file": "svg/snowflake.svg",
+      "tags": [
+        "snowflake",
+        "cold",
+        "ice",
+        "winter",
+        "snow",
+        "freeze"
+      ]
+    },
+    {
+      "name": "fire-wood",
+      "title": "Fire and wood",
+      "file": "svg/fire-wood.svg",
+      "tags": [
+        "fire",
+        "flame",
+        "wood",
+        "logs",
+        "wood-burning",
+        "firewood"
+      ]
+    },
+    {
+      "name": "sauna-cabin",
+      "title": "Sauna cabin",
+      "file": "svg/sauna-cabin.svg",
+      "tags": [
+        "sauna",
+        "cabin",
+        "hut",
+        "house",
+        "outdoor sauna",
+        "building"
+      ]
+    },
+    {
+      "name": "barrel-sauna",
+      "title": "Barrel sauna",
+      "file": "svg/barrel-sauna.svg",
+      "tags": [
+        "barrel sauna",
+        "outdoor sauna",
+        "round",
+        "barrel",
+        "cabin"
+      ]
+    },
+    {
+      "name": "infrared-panel",
+      "title": "Infrared panel",
+      "file": "svg/infrared-panel.svg",
+      "tags": [
+        "infrared",
+        "IR sauna",
+        "heater",
+        "panel",
+        "radiant heat"
+      ]
+    },
+    {
+      "name": "sauna-door",
+      "title": "Sauna door",
+      "file": "svg/sauna-door.svg",
+      "tags": [
+        "door",
+        "glass door",
+        "entrance",
+        "exit"
+      ]
+    },
+    {
+      "name": "lamp",
+      "title": "Lamp",
+      "file": "svg/lamp.svg",
+      "tags": [
+        "lamp",
+        "light",
+        "bulb",
+        "lighting"
+      ]
+    },
+    {
+      "name": "essential-oil",
+      "title": "Essential oil",
+      "file": "svg/essential-oil.svg",
+      "tags": [
+        "essential oil",
+        "aroma",
+        "scent",
+        "dropper",
+        "eucalyptus",
+        "aromatherapy"
+      ]
+    },
+    {
+      "name": "water-bottle",
+      "title": "Water bottle",
+      "file": "svg/water-bottle.svg",
+      "tags": [
+        "water bottle",
+        "hydration",
+        "drink",
+        "water"
+      ]
+    },
+    {
+      "name": "tea-cup",
+      "title": "Tea cup",
+      "file": "svg/tea-cup.svg",
+      "tags": [
+        "tea",
+        "cup",
+        "herbal tea",
+        "drink",
+        "hot drink",
+        "mug"
+      ]
+    },
+    {
+      "name": "clock",
+      "title": "Clock",
+      "file": "svg/clock.svg",
+      "tags": [
+        "clock",
+        "time",
+        "session",
+        "duration"
+      ]
+    },
+    {
+      "name": "heart-rate",
+      "title": "Heart rate",
+      "file": "svg/heart-rate.svg",
+      "tags": [
+        "heart rate",
+        "pulse",
+        "heart",
+        "heartbeat"
+      ]
+    },
+    {
+      "name": "leaf",
+      "title": "Leaf",
+      "file": "svg/leaf.svg",
+      "tags": [
+        "leaf",
+        "natural",
+        "plant",
+        "eucalyptus",
+        "birch",
+        "eco"
+      ]
+    },
+    {
+      "name": "lake-dock",
+      "title": "Lake and dock",
+      "file": "svg/lake-dock.svg",
+      "tags": [
+        "lake",
+        "dock",
+        "pier",
+        "swim",
+        "water",
+        "nature"
+      ]
+    },
+    {
+      "name": "hammam-dome",
+      "title": "Hammam dome",
+      "file": "svg/hammam-dome.svg",
+      "tags": [
+        "hammam",
+        "turkish bath",
+        "dome",
+        "bathhouse",
+        "steam bath"
+      ]
+    },
+    {
+      "name": "hot-tub",
+      "title": "Hot tub",
+      "file": "svg/hot-tub.svg",
+      "tags": [
+        "hot tub",
+        "tub",
+        "bath",
+        "spa",
+        "jacuzzi",
+        "ofuro"
+      ]
+    },
+    {
+      "name": "hook",
+      "title": "Hook",
+      "file": "svg/hook.svg",
+      "tags": [
+        "hook",
+        "hanger",
+        "wall hook",
+        "hang",
+        "storage"
+      ]
+    },
+    {
+      "name": "soap",
+      "title": "Soap",
+      "file": "svg/soap.svg",
+      "tags": [
+        "soap",
+        "wash",
+        "bubbles",
+        "clean",
+        "bath"
+      ]
+    },
+    {
+      "name": "bath-brush",
+      "title": "Bath brush",
+      "file": "svg/bath-brush.svg",
+      "tags": [
+        "bath brush",
+        "body brush",
+        "scrub",
+        "back brush",
+        "wash"
+      ]
+    },
+    {
+      "name": "do-not-machine-wash",
+      "title": "Do not machine wash",
+      "file": "svg/do-not-machine-wash.svg",
+      "tags": [
+        "care",
+        "do not machine wash",
+        "hand wash only",
+        "laundry",
+        "washing machine",
+        "wool care"
+      ]
+    }
+  ]
+}
